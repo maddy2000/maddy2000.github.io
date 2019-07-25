@@ -1,11 +1,11 @@
 # Site settings
-author: Madelyn Deshield
-title: 
+author: Madelyn
+title: Week 2 in flatiron part time program
 header-img: img/home-bg.png
 email: madelynwallop@gmail.com
-copyright_name: Madelyn Deshield
+copyright_name: Madelyn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  maddy2000
